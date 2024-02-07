@@ -1,0 +1,11 @@
+CustomerID,CustomerName,ProductName,Price,QuantityPurchased,PurchaseDate
+101,John Doe,Laptop,1200,2,2023-10-01
+102,Jane Smith,Headphones,100,3,2023-10-02
+103,Bob Johnson,Smartphone,800,1,2023-10-03
+104,Alice Brown,Desk,250,2,2023-10-04
+105,Charlie Davis,Chair,150,4,2023-10-05
+106,Eva White,Mouse,20,5,2023-10-06
+107,David Lee,Backpack,30,2,2023-10-07
+108,Emily Miller,Notebook,5,10,2023-10-08
+109,George Wilson,Tablet,300,1,2023-10-09
+110,Lily Turner,Printer,180,3,2023-10-10

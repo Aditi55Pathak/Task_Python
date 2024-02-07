@@ -1,0 +1,41 @@
+2023-10-27 00:23:11:  <---- Starting reading of database  ---->2023-10-27 00:23:11:  <---- Displaing first five rows of database  ---->2023-10-27 00:23:11:  <---- Displaing last five rows of database  ---->2023-10-27 00:32:10: Updated new file2023-10-27 00:37:16:  <---- Displaing mean of database  ---->2023-10-27 00:37:16:  <---- Displaing std of database  ---->2023-10-27 00:39:14:  <---- Displaing our top students ---->2023-10-27 00:39:55:  <---- Displaing our top students ---->2023-10-27 00:39:55:    StudentID     Name    Citizen Group  Score
+2        111    Gagan      India     B     92
+5        130   Ramesh    England     A     91
+9        170  Anushka  Australia     A     90
+7        158  Krishna      India     A     89
+3        122     Josh    England     A     88
+0        101    Akash      India     A     85
+6        151    Starc  Australia     B     82
+1        105    Rohit      India     A     78
+8        160    Jugal      India     B     76
+4        125  Chandan      India     B     752023-10-27 00:43:02:  <---- Displaing Groups by name and score  ---->2023-10-27 00:45:26:  <---- Starting reading of database  ---->2023-10-27 00:45:26:  <---- Displaing first five rows of database  ---->2023-10-27 00:45:26:  <---- Displaing last five rows of database  ---->2023-10-27 00:45:26: Updated new file2023-10-27 00:45:26:  <---- Displaing mean of database  ---->2023-10-27 00:45:26:  <---- Displaing std of database  ---->2023-10-27 00:45:26:  <---- Displaing our top students ---->2023-10-27 00:45:26:    StudentID     Name    Citizen Group  Score
+2        111    Gagan      India     B     92
+5        130   Ramesh    England     A     91
+9        170  Anushka  Australia     A     90
+7        158  Krishna      India     A     89
+3        122     Josh    England     A     88
+0        101    Akash      India     A     85
+6        151    Starc  Australia     B     82
+1        105    Rohit      India     A     78
+8        160    Jugal      India     B     76
+4        125  Chandan      India     B     752023-10-27 00:45:26:  <---- Displaing Groups by name and score  ---->2023-10-27 00:48:15:  <---- Displaing Groups by name and score  ---->2023-10-27 00:48:37:  <---- Starting reading of database  ---->2023-10-27 00:48:37:  <---- Displaing first five rows of database  ---->2023-10-27 00:48:37:  <---- Displaing last five rows of database  ---->2023-10-27 00:48:37: Updated new file2023-10-27 00:48:38:  <---- Displaing mean of database  ---->2023-10-27 00:48:38:  <---- Displaing std of database  ---->2023-10-27 00:48:38:  <---- Displaing our top students ---->2023-10-27 00:48:38:    StudentID     Name    Citizen Group  Score
+2        111    Gagan      India     B     92
+5        130   Ramesh    England     A     91
+9        170  Anushka  Australia     A     90
+7        158  Krishna      India     A     89
+3        122     Josh    England     A     88
+0        101    Akash      India     A     85
+6        151    Starc  Australia     B     82
+1        105    Rohit      India     A     78
+8        160    Jugal      India     B     76
+4        125  Chandan      India     B     752023-10-27 00:48:45:  <---- Displaing Groups by name and score  ---->2023-10-27 01:23:42:  <---- Starting reading of database  ---->2023-10-27 01:23:42:  <---- Displaing first five rows of database  ---->2023-10-27 01:23:42:  <---- Displaing last five rows of database  ---->2023-10-27 01:23:42: Updated new file2023-10-27 01:23:42:  <---- Displaing mean of database  ---->2023-10-27 01:23:42:  <---- Displaing std of database  ---->2023-10-27 01:23:42:  <---- Displaing our top students ---->2023-10-27 01:23:42:    StudentID     Name    Citizen Group  Score
+2        111    Gagan      India     B     92
+5        130   Ramesh    England     A     91
+9        170  Anushka  Australia     A     90
+7        158  Krishna      India     A     89
+3        122     Josh    England     A     88
+0        101    Akash      India     A     85
+6        151    Starc  Australia     B     82
+1        105    Rohit      India     A     78
+8        160    Jugal      India     B     76
+4        125  Chandan      India     B     752023-10-27 01:23:42:  <---- Displaing Groups by name and score  ---->

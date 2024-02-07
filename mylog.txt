@@ -1,0 +1,55 @@
+2023-10-27 01:20:35 : Loading data frames to csv file
+2023-10-27 01:20:35 : Loading first 5 data
+2023-10-27 01:20:35 : Loading last 5 data
+2023-10-27 01:20:35 : Loading updated sales data
+2023-10-27 01:20:35 : Calculating total revenue
+2023-10-27 01:20:35 : Calculated total revenue
+2023-10-27 01:20:35 : Product with highest total revenue
+2023-10-27 01:23:03 : Loading data frames to csv file
+2023-10-27 01:23:03 : Loading first 5 data
+2023-10-27 01:23:03 : Loading last 5 data
+2023-10-27 01:23:03 : Loading updated sales data
+2023-10-27 01:23:03 : Calculating total revenue
+2023-10-27 01:23:03 : Calculated total revenue
+2023-10-27 01:23:03 : Product with highest total revenue
+2023-10-27 01:25:04 : Loading data frames to csv file
+2023-10-27 01:25:04 : Loading first 5 data
+2023-10-27 01:25:04 : Loading last 5 data
+2023-10-27 01:25:04 : Loading updated sales data
+2023-10-27 01:25:04 : Calculating total revenue
+2023-10-27 01:25:05 : Calculated total revenue
+2023-10-27 01:25:05 : Product with highest total revenue
+2023-10-27 01:25:45 : Loading data frames from CSV file
+2023-10-27 01:25:45 : Displaying first 5 rows of the dataset:
+2023-10-27 01:25:45 : Displaying last 5 rows of the dataset:
+2023-10-27 01:25:45 : Updated sales data saved to updated_sales_report_2023-10-27 01_25_45.csv
+2023-10-27 01:25:45 : Calculating total revenue
+2023-10-27 01:25:45 : Total revenue calculated
+2023-10-27 01:25:45 : Product with the highest total revenue:
+2023-10-27 01:25:45 : ProductID                101
+ProductName           Laptop
+Category         Electronics
+Price                   1200
+QuantitySold              30
+total_revenue          36000
+Name: 0, dtype: object
+2023-10-27 01:25:45 : Displaying items with the 'Electronics' category only:
+2023-10-27 01:25:45 : Items with the 'Electronics' category displayed
+2023-10-27 01:25:45 : Sorting total revenue in descending order:
+2023-10-27 01:25:54 : Loading data frames from CSV file
+2023-10-27 01:25:54 : Displaying first 5 rows of the dataset:
+2023-10-27 01:25:54 : Displaying last 5 rows of the dataset:
+2023-10-27 01:25:54 : Updated sales data saved to updated_sales_report_2023-10-27 01_25_54.csv
+2023-10-27 01:25:54 : Calculating total revenue
+2023-10-27 01:25:54 : Total revenue calculated
+2023-10-27 01:25:54 : Product with the highest total revenue:
+2023-10-27 01:25:54 : ProductID                101
+ProductName           Laptop
+Category         Electronics
+Price                   1200
+QuantitySold              30
+total_revenue          36000
+Name: 0, dtype: object
+2023-10-27 01:25:54 : Displaying items with the 'Electronics' category only:
+2023-10-27 01:25:54 : Items with the 'Electronics' category displayed
+2023-10-27 01:25:54 : Sorting total revenue in descending order:

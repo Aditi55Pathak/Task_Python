@@ -1,0 +1,13 @@
+OrderID,CustomerID,OrderDate,Revenue,Category,CustomerGroup
+1,101,2023-01-15,150.50,Electronics,A
+2,102,2023-02-10,75.20,Clothing,B
+3,103,2023-03-05,200.00,Electronics,C
+4,104,2023-04-20,50.80,Books,A
+5,105,2023-05-15,120.60,Electronics,B
+6,101,2023-06-02,80.30,Clothing,A
+7,106,2023-07-10,300.00,Electronics,C
+8,102,2023-08-18,55.90,Books,A
+9,107,2023-09-25,180.70,Clothing,B
+10,103,2023-10-05,95.40,Electronics,C
+11,108,2023-11-12,110.20,Books,A
+12,109,2023-12-20,210.80,Clothing,C

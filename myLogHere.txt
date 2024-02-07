@@ -1,0 +1,89 @@
+2023-10-27 16:56:22 : Reading files into dataset2023-10-27 16:56:42 : Reading files into dataset2023-10-27 16:56:44 : Printing first and last ten rows from dataset2023-10-27 16:56:52 : Reading files into dataset2023-10-27 16:56:52 : Printing first and last ten rows from dataset2023-10-27 16:57:14 : Reading files into dataset2023-10-27 16:57:14 : Printing first and last ten rows from dataset2023-10-27 17:00:20 : Reading files into dataset2023-10-27 17:00:21 : Printing first and last ten rows from dataset2023-10-27 17:00:21 : Calculating total purchase for revenue generated2023-10-27 17:04:46 : Reading files into dataset 
+2023-10-27 17:04:46 : Printing first and last ten rows from dataset
+2023-10-27 17:04:46 : Calculating total purchase for revenue generated 
+2023-10-27 17:04:46 : Total revenue generated:
+2023-10-27 17:04:46 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:07:13 : Reading files into dataset 
+2023-10-27 17:07:13 : Printing first and last ten rows from dataset
+2023-10-27 17:07:13 : Calculating total purchase for revenue generated 
+2023-10-27 17:07:13 : Total revenue generated:
+2023-10-27 17:07:13 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:07:13 : Maximum revenue of the customer:
+2023-10-27 17:09:01 : Reading files into dataset 
+2023-10-27 17:09:01 : Printing first and last ten rows from dataset
+2023-10-27 17:09:01 : Calculating total purchase for revenue generated 
+2023-10-27 17:09:01 : Total revenue generated:
+2023-10-27 17:09:01 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:09:01 : Maximum revenue of the customer:
+2023-10-27 17:11:52 : Reading files into dataset 
+2023-10-27 17:11:52 : Printing first and last ten rows from dataset
+2023-10-27 17:11:52 : Calculating total purchase for revenue generated 
+2023-10-27 17:11:52 : Total revenue generated:
+2023-10-27 17:11:52 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:11:52 : Maximum revenue of the customer:
+2023-10-27 17:12:21 : Reading files into dataset 
+2023-10-27 17:12:21 : Printing first and last ten rows from dataset
+2023-10-27 17:12:21 : Calculating total purchase for revenue generated 
+2023-10-27 17:12:21 : Total revenue generated:
+2023-10-27 17:12:21 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:12:21 : Maximum revenue of the customer:
+2023-10-27 17:14:35 : Reading files into dataset 
+2023-10-27 17:14:35 : Printing first and last ten rows from dataset
+2023-10-27 17:14:35 : Calculating total purchase for revenue generated 
+2023-10-27 17:14:35 : Total revenue generated:
+2023-10-27 17:14:35 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+dtype: int642023-10-27 17:14:35 : Maximum revenue of the customer:

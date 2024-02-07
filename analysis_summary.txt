@@ -1,0 +1,12 @@
+
+    Analysis Summary:
+    
+    1. Total Revenue: $5302.00
+    2. Top-Selling Products:
+        - Product A: Widget D
+        - Product B: Widget D
+        - Product C: Widget D
+    3. Monthly Trends:
+        - Highest Revenue Month: 6
+        - Lowest Revenue Month: 8
+    

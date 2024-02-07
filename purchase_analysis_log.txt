@@ -1,0 +1,77 @@
+2023-10-27 17:16:44 : Reading files into dataset
+
+2023-10-27 17:16:45 : Printing first and last ten rows from dataset
+
+2023-10-27 17:16:45 :    CustomerID   CustomerName ProductName  Price  QuantityPurchased PurchaseDate
+0         101       John Doe      Laptop   1200                  2   2023-10-01
+1         102     Jane Smith  Headphones    100                  3   2023-10-02
+2         103    Bob Johnson  Smartphone    800                  1   2023-10-03
+3         104    Alice Brown        Desk    250                  2   2023-10-04
+4         105  Charlie Davis       Chair    150                  4   2023-10-05
+5         106      Eva White       Mouse     20                  5   2023-10-06
+6         107      David Lee    Backpack     30                  2   2023-10-07
+7         108   Emily Miller    Notebook      5                 10   2023-10-08
+8         109  George Wilson      Tablet    300                  1   2023-10-09
+9         110    Lily Turner     Printer    180                  3   2023-10-10
+2023-10-27 17:16:45 :    CustomerID   CustomerName ProductName  Price  QuantityPurchased PurchaseDate
+0         101       John Doe      Laptop   1200                  2   2023-10-01
+1         102     Jane Smith  Headphones    100                  3   2023-10-02
+2         103    Bob Johnson  Smartphone    800                  1   2023-10-03
+3         104    Alice Brown        Desk    250                  2   2023-10-04
+4         105  Charlie Davis       Chair    150                  4   2023-10-05
+5         106      Eva White       Mouse     20                  5   2023-10-06
+6         107      David Lee    Backpack     30                  2   2023-10-07
+7         108   Emily Miller    Notebook      5                 10   2023-10-08
+8         109  George Wilson      Tablet    300                  1   2023-10-09
+9         110    Lily Turner     Printer    180                  3   2023-10-10
+2023-10-27 17:16:45 : Calculating total purchase for revenue generated
+
+2023-10-27 17:16:45 : Total revenue generated:
+
+2023-10-27 17:16:45 : 0    2400
+1     300
+2     800
+3     500
+4     600
+5     100
+6      60
+7      50
+8     300
+9     540
+Name: TotalRevenue, dtype: int64
+2023-10-27 17:16:45 : Maximum revenue of the customer:
+
+2023-10-27 17:16:45 : CustomerID                  101
+CustomerName           John Doe
+ProductName              Laptop
+Price                      1200
+QuantityPurchased             2
+PurchaseDate         2023-10-01
+TotalRevenue               2400
+Name: 0, dtype: object
+2023-10-27 17:16:45 : Purchases made only in last month
+
+2023-10-27 17:16:45 :    CustomerID   CustomerName ProductName  Price  QuantityPurchased PurchaseDate  TotalRevenue
+0         101       John Doe      Laptop   1200                  2   2023-10-01          2400
+1         102     Jane Smith  Headphones    100                  3   2023-10-02           300
+2         103    Bob Johnson  Smartphone    800                  1   2023-10-03           800
+3         104    Alice Brown        Desk    250                  2   2023-10-04           500
+4         105  Charlie Davis       Chair    150                  4   2023-10-05           600
+5         106      Eva White       Mouse     20                  5   2023-10-06           100
+6         107      David Lee    Backpack     30                  2   2023-10-07            60
+7         108   Emily Miller    Notebook      5                 10   2023-10-08            50
+8         109  George Wilson      Tablet    300                  1   2023-10-09           300
+9         110    Lily Turner     Printer    180                  3   2023-10-10           540
+2023-10-27 17:16:45 : New column TotalCost
+
+2023-10-27 17:16:45 :    CustomerID   CustomerName ProductName  Price  QuantityPurchased PurchaseDate  TotalRevenue  TotalCost
+0         101       John Doe      Laptop   1200                  2   2023-10-01          2400       2400
+1         102     Jane Smith  Headphones    100                  3   2023-10-02           300        300
+2         103    Bob Johnson  Smartphone    800                  1   2023-10-03           800        800
+3         104    Alice Brown        Desk    250                  2   2023-10-04           500        500
+4         105  Charlie Davis       Chair    150                  4   2023-10-05           600        600
+5         106      Eva White       Mouse     20                  5   2023-10-06           100        100
+6         107      David Lee    Backpack     30                  2   2023-10-07            60         60
+7         108   Emily Miller    Notebook      5                 10   2023-10-08            50         50
+8         109  George Wilson      Tablet    300                  1   2023-10-09           300        300
+9         110    Lily Turner     Printer    180                  3   2023-10-10           540        540
